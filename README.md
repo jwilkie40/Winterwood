@@ -3,4 +3,4 @@ A home network configuration for Winterwood.
 
 # Architecture
 
-[[./arch.png]]
+![The architecture diagram of the home network.](/arch.png)
